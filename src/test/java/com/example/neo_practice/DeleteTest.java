@@ -14,7 +14,7 @@ public class DeleteTest {
     @Test
     public void check(){
         //deleteService.deleteRevision("39f27871-ade8-4506-85b7-6a43f3e7137d");
-        //deleteService.deleteObject("cc6201ce-3bd9-484a-a5dd-01c0bf08da38");
-        deleteService.deleteObjectFromRevision("11cdc660-4fb1-46ce-a6e6-8b644cd5ac01", "cc6201ce-3bd9-484a-a5dd-01c0bf08da38");
+        deleteService.deleteObject("26d3b00a-f812-4490-aceb-64b9f5f4dd05");
+        //deleteService.deleteObjectFromRevision("92fa682a-403e-46b3-9f9c-f38f84199e39", "26d3b00a-f812-4490-aceb-64b9f5f4dd05");
     }
 }
